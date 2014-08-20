@@ -191,3 +191,11 @@ p.copyright {
 	color: #fff;
 	text-align: center;
 }	
+
+.form-control {
+  width: 300px;
+}
+
+.btn-primary {
+  width: 150px;
+}
