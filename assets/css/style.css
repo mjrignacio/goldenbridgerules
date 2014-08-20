@@ -199,3 +199,11 @@ p.copyright {
 .btn-primary {
   width: 150px;
 }
+
+.carousel-col {
+   top:50px;
+}
+
+.carousel-inner {
+   left:-100px;
+}
